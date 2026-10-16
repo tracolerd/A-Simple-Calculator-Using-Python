@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0F766E,100:0B1220&height=190&section=header&text=Python%20GUI%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=A%20lightweight%20Tkinter%20calculator%20with%20keyboard%20support%20and%20expression%20preview&descAlignY=61&descSize=15" alt="Python GUI Calculator animated project banner" width="100%" />
 </p>
+<h1 align="center">Python GUI Calculator</h1>
+
 
 A sleek, fully-functional desktop calculator built with Python and Tkinter — no external dependencies required.
 
