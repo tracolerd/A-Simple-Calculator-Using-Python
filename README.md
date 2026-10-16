@@ -1,4 +1,6 @@
-# 🧮 Python GUI Calculator
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:0F766E,100:0B1220&height=190&section=header&text=Python%20GUI%20Calculator&fontSize=42&fontColor=F1F5F9&fontAlignY=38&animation=fadeIn&desc=A%20lightweight%20Tkinter%20calculator%20with%20keyboard%20support%20and%20expression%20preview&descAlignY=61&descSize=15" alt="Python GUI Calculator animated project banner" width="100%" />
+</p>
 
 A sleek, fully-functional desktop calculator built with Python and Tkinter — no external dependencies required.
 
@@ -53,10 +55,10 @@ A sleek, fully-functional desktop calculator built with Python and Tkinter — n
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/python-gui-calculator.git
+git clone https://github.com/tracolerd/A-Simple-Calculator-Using-Python.git
 
 # 2. Navigate into the project directory
-cd python-gui-calculator
+cd A-Simple-Calculator-Using-Python
 ```
 
 > **No `pip install` needed** — this project uses only the Python standard library.
@@ -152,3 +154,12 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 Made by Faiyaz using Python
 
 > *"Any sufficiently advanced calculator is indistinguishable from magic."*
+
+---
+
+## Author & Development
+
+**Project author and solo developer:** [Nurul Faiyaz](https://github.com/tracolerd).
+
+This project is independently developed and maintained by Nurul Faiyaz. AI-assisted tools may be used as part of the development workflow; the project author remains responsible for technical decisions, code review, validation, and maintenance.
+
